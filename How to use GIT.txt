@@ -1,3 +1,5 @@
+Add: 
+git add .
 Commits:
 git commit -m "Commitmessage" 
 
@@ -8,6 +10,6 @@ Push:
 git push origin master
 
 Order after updating files: 
-commit > pull > push
+add > commit > pull > push
 
 When someone has updated the files use pull.
