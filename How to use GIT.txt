@@ -1,0 +1,13 @@
+Commits:
+git commit -m "Commitmessage" 
+
+Pull:
+git pull
+
+Push: 
+git push origin master
+
+Order after updating files: 
+commit > pull > push
+
+When someone has updated the files use pull.
